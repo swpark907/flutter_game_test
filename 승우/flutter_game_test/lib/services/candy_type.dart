@@ -1,3 +1,6 @@
-class CandyType {
-  
+enum CandyType {
+  Normal,
+  Nurungi,
+  Apple,
+  Grape,
 }
